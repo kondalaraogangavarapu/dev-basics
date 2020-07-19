@@ -1,25 +1,21 @@
 # dev-basics
 
 ##Git Operations:
-  Follow these steps if you have a an existing repo in GitHub to work on 
-	1. Cloning a remote source code repository
+Follow these steps if you have a an existing repo in GitHub to work on 
+1. Cloning a remote source code repository
 	
-		```bash
-    git clone your-example-repo-uri
-    ```
-
-	2. Committing the changes made, it is a two step process -
-		i) first you stage the chnages by runnning 
-			```bash
-      git add -A
-      ```
-      then,
-		ii) you commit the staged changes by running 
-			```bash
-      git commit -m "your commiy message"
-      ```
-
-	3. Now push your locally committed changes to the remote(also called origin) repository - In our case, we are using GitHub as our origin/remote	 
+```bash
+git clone your-example-repo-uri
+```
+2. Committing the changes made, it is a two step process - first you stage the chnages by runnning 
+```bash
+git add -A
+```
+then, you commit the staged changes by running 
+```bash
+git commit -m "your commiy message"
+```
+3. Now push your locally committed changes to the remote(also called origin) repository - In our case, we are using GitHub as our origin/remote	 
 		Things to be noted-
 		i) Never push directly to remote master branch
 		ii) Always create a new branch locally and push to the same new remote branch, put a pull requests to Master in the remote, 
