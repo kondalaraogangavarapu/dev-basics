@@ -1,6 +1,6 @@
 # dev-basics
 
-## Git Operations
+### Git Operations
 Follow these steps if you have a an existing repo in GitHub to work on 
 1. Cloning a remote source code repository
 	
