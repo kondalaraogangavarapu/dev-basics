@@ -57,7 +57,7 @@ go mod init
 ```
 4. Start coding 
 
-5. Run you code by using - `go run` command - for example: 
+5. Run your code by using - `go run` command - for example: 
 ```bash
 go run ./main.go
 ```
