@@ -1,4 +1,4 @@
-# dev-basics
+# Developer Basics
 
 ### Git Operations
 Follow these steps if you have a an existing repo in GitHub to work on 
